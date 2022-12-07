@@ -1,1 +1,17 @@
-# GitTest
+
+{
+	"first": "John",
+	"last": "Doe",
+	"age": "25"
+}
+{
+	"first":"Mary",
+	"last": "Doe",
+	"age": "24"
+}
+{
+	"first": "Jack",
+	"last": "Jones",
+	"age": "22"
+}
+]
